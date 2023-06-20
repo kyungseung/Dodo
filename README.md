@@ -7,13 +7,13 @@
 - 사용언어 : JAVA, MYSQL
 - 사용SW : Eclipse, Heidi SQL
 
-- 도도구조
+# 도도구조
 ![이미지 001](https://user-images.githubusercontent.com/81572693/227707337-54d61b03-9a7c-45b6-86a1-0776c896a914.png)
 
 
-- ERD
+# ERD
 ![image](https://user-images.githubusercontent.com/81572693/227708048-63972709-24b4-4109-b84b-e6fc936980d1.png)
 
 
-- 프로그램 실행예시
+# 프로그램 실행예시
 ![이미지 001](https://user-images.githubusercontent.com/81572693/227708559-69f652c5-f4a8-47ab-8ac3-b1865f0fdfc6.png)
